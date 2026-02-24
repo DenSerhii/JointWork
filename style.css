@@ -3,3 +3,43 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+#project{
+    text-align:left;
+    padding:10px;
+}
+
+div{
+    justify-content:space-around;
+    padding:20px;
+    margin:30px;
+    align-items:stretch;
+    display:flex;
+    flex-direction:row;
+}
+#niger{
+    flex-direction:row;
+    text-align:left;
+}
+
+a{
+    text-decoration-line:none;
+    color:#042571;
+    margin:7px;
+    position:relative;
+}
+#languages{
+text-align:center;
+     margin-top:25px;
+}
+
+#vchis{
+text-align:center;
+    margin-top:250px;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background: linear-gradient(to right, #f5e6ca, #e8cfa3);
+    color: #222;
+}
